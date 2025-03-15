@@ -2,7 +2,7 @@ import streamlit as stl
 import pint
 
 ur = pint.UnitRegistry()
-stl.title("Unit Convertor")
+stl.title("Unit Converter")
 
 con_type = stl.selectbox("Select Conversion Type",
                          ["Length", "Weight","Temperature", "Volume", "Time"])
