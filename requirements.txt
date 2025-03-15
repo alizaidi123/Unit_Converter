@@ -1,3 +1,2 @@
-streamlit
-pint
-UnitRegistry
+streamlit~=1.43.2
+Pint~=0.24.4
